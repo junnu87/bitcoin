@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+}
+
+.input_field {
+  margin: 5px;
+}
+
+.submit_button {
+  margin: 5px 0 0 10%;
+}
+
+.descTrend_div {
+  padding: 10px;
+  width: 70%;
+  height: 100%;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.section_title {
+  text-align: center;
+}
+
+.p_tag {
+  text-align: center;
+}
+
+.highestTradingVolume_div {
+  padding: 10px;
+  width: 70%;
+  height: 100%;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.bestDays_div {
+  padding: 10px;
+  width: 70%;
+  height: 100%;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 50px;
+}
